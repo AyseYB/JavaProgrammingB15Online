@@ -4,11 +4,11 @@ public class Main {
   // this is the place your program start running
     public static void main(String[] args) {
 
-        // write your java code here and it always starts withdounle slash
+        // write your java code here and it always starts with double slash
         // and compiler will IGNORE THIS!!!
 
         // JAVA IS CASE SENSITIVE LANGUAGE
-        //System and system are very diffretn thing in Java
+        //System and system are very different thing in Java
         // Hello AND hello are different for Java
 
 
